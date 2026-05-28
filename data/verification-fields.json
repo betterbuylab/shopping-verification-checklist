@@ -1,0 +1,30 @@
+[
+  {
+    "field": "product identity",
+    "required": true
+  },
+  {
+    "field": "retailer listing",
+    "required": true
+  },
+  {
+    "field": "price context",
+    "required": true
+  },
+  {
+    "field": "stock wording",
+    "required": true
+  },
+  {
+    "field": "affiliate rules",
+    "required": true
+  },
+  {
+    "field": "image rights",
+    "required": true
+  },
+  {
+    "field": "search presentation",
+    "required": true
+  }
+]

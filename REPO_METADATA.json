@@ -1,0 +1,29 @@
+{
+  "repoName": "shopping-verification-checklist",
+  "description": "Reusable checklist for verifying product pages before shopping tools, prices, stock language, imagery, ratings, or offer schema appear.",
+  "homepage": "https://www.betterbuylab.com",
+  "topics": [
+    "betterbuylab",
+    "editorial-policy",
+    "verification",
+    "affiliate-disclosure",
+    "buying-guides",
+    "product-research",
+    "trust",
+    "compliance"
+  ],
+  "visibility": "public",
+  "pinnedRecommendation": false,
+  "primaryWebsitePages": [
+    "/methodology",
+    "/verification-policy",
+    "/affiliate-disclosure",
+    "/editorial-policy"
+  ],
+  "siblingRepos": [
+    "better-buy-lab-resources",
+    "shopping-verification-checklist",
+    "affiliate-scope-and-disclosure-map"
+  ],
+  "complianceNotes": "Policy-focused; no commerce promotion."
+}
