@@ -2,7 +2,7 @@
 
 Public checklist for verifying product identity, retailer links, images, price and stock wording, schema, and shopping modules.
 
-**Website:** [official Better Buy Lab website](https://www.betterbuylab.com)
+**Website:** [official Better Buy Lab website](https://www.betterbuylab.com/)
 **Central hub:** [better-buy-lab-resources](https://github.com/betterbuylab/better-buy-lab-resources)
 
 > Better Buy Lab is a product research and buying-guide publisher—not a retailer, price tracker, deal feed, warranty provider, manufacturer, or first-party test lab unless a specific page supports that claim. Product details, listings, and availability change; verify on retailer sites.
